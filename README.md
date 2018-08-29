@@ -2,6 +2,7 @@
 
 A JupyterLab extension to use TensorBoard with the Mesosphere DC/OS JupyterLab Service
 
+![quick demo](https://dha4w82d62smt.cloudfront.net/items/0D0h2p1Y3Z2b0m0j1G0G/Screen%20Recording%202018-08-28%20at%2012.08%20PM.gif)
 
 ## Prerequisites
 
