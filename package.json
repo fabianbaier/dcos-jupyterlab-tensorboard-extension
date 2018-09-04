@@ -1,6 +1,6 @@
 {
   "name": "dcos-jupyterlab-tensorboard-extension",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A JupyterLab extension that works on Mesosphere DC/OS JupyterLab Service",
   "keywords": [
     "jupyter",
