@@ -11,7 +11,7 @@ export class TensorBoardTab extends IFrame {
     super();
     this.addClass('jp-TensorBoard');
     // URL being proxied
-    this.url = "tensorboard";
+    this.url = "tensorboard/";
     // Initialize settings.
     this.id = `jp-TensorBoard-proxied`;
     this.title.icon = 'jp-TensorBoard-tabIcon';
